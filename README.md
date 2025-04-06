@@ -3,7 +3,7 @@
 This repository contains information for the Alai challenge submission. Please follow the instructions below carefully to ensure your submission meets all requirements.
 
 > [!IMPORTANT] 
-> The deadline for this challenge is Monday, 11:59 pm IST after which this repository will be made private
+> The deadline for this challenge is Monday, April 7, 11:59 pm IST after which this repository will be made private
 
 ## Overview
 
