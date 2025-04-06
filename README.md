@@ -2,6 +2,9 @@
 
 This repository contains information for the Alai challenge submission. Please follow the instructions below carefully to ensure your submission meets all requirements.
 
+[!IMPORTANT] 
+The deadline for this challenge is Monday, 11:59 pm IST after which this repository will be made private
+
 ## Overview
 
 1. Choose between the frontend (hub and spoke diagram) or the backend (Presentation from Webpage) challenge. You only need to do 1 of the 2 challenges. DO NOT ATTEMPT BOTH THE CHALLENGES.
